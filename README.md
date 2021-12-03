@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Byrn Chen
+- 👋 Hi, I’m Byron Chen
 - 👀 I’m interested in Games and Music
 - 🌱 I’m currently learning Java from backend to frontend in computer engineering in McGill.
 - 💞️ I’m looking to collaborate on ...
